@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @FeNunn
-- 👀 I’m a student of EE
-- 📫 How to reach me ...
+- 👋 Hi
 
 <!---
 FeNunn/FeNunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
